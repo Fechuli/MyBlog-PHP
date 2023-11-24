@@ -13,5 +13,4 @@ federicopass
 
 This will give you access to the 'administrator's panel.
 
-<img width="1267" alt="Screenshot 2023-11-24 095854" src="https://github.com/Fechuli/MyBlog-PHP/assets/99290773/92e62192-ab19-46c2-8ded-8a5aff0f99f5">
-
+<img width="1270" alt="Screenshot 2023-11-24 100447" src="https://github.com/Fechuli/MyBlog-PHP/assets/99290773/bcfa0821-8621-4275-ad55-7d534f26e095">

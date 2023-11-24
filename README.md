@@ -4,9 +4,11 @@ This project is a synthesis of my learning the PHP language. A blog that allows 
 The following credentials are needed to access the 'administrator section:
 
 ###USER
+
 federico
 
 ###PASSWORD
+
 federicopass
 
 This will give you access to the 'administrator's panel.
